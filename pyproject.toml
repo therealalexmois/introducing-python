@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "introducing-python"
+version = "0.1.0"
+description = "Solving assignments from the book \"Introducing Python: Modern Computing with Simple Packages\""
+authors = ["Aleksander Moiseenko <alex.mois.developer@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
