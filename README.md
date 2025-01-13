@@ -2,18 +2,18 @@
 
 Репозиторий, содержит решения задач из книги «Простой Python. Современный стиль программирования» Билла Любановича. Этот проект предназначен для тех, кто изучает Python и хочет изучить практические примеры глава за главой.
 
-## Локальный запRunning Testsуск
+## Локальный запуск
 
 Клонируйте проект:
 
 ```bash
-git clone https://github.com/therealalexmois/introducing_python.git
+git clone https://github.com/therealalexmois/introducing-python.git
 ```
 
 Перейдите в каталог проекта:
 
 ```bash
-cd introducing_python
+cd introducing-python
 ```
 
 Установка зависимостей:
